@@ -1,1 +1,1 @@
-My first readme
+This repository is about understanding how git works.
